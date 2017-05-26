@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">My Diabetes</string>
+    <string name="app_version">V 1.0.0</string>
+
+    <!--MainActivity-->
+    <string name="appText">Diabetes</string>
+    <string name="cardPengertian">Apa Itu Diabetes ?</string>
+    <string name="cardGejala">Gejala Diabetes</string>
+    <string name="cardTipeDiabetes">Jenis-jenis Diabetes</string>
+    <string name="cardKomplikasi">Komplikasi</string>
+    <string name="cardPencegahan">Pencegahan</string>
+    <string name="cardKontrol">Kontrol Kadar Gula Darah</string>
+    <string name="cardPengobatan">Pengobatan</string>
+
+    <!--About Activity-->
+    <string name="app_for">
+        Sebagai aplikasi final project IAK #3
+    </string>
+    <string name="app_desc">
+        Aplikasi ini bertujuan sebagai edukasi bagi penderita diabetes untuk dapat hidup lebih sehat
+    </string>
+    <string name="dev">Pengembang</string>
+    <string name="devName">Kuspriyanto</string>
+    <string name="devEmail">ikoaoe@gmail.com</string>
+    <string name="artikel">Sumber Artikel</string>
+    <string name="linkArtikel">http://www.idmedis.com/</string>
+
+    <!--title Activity-->
+    <string name="titlePengertian">Pengertian tentang Diabetes</string>
+    <string name="titleGejala">Apa Penyebab Terkena Diabetes</string>
+    <string name="titleTipe">Tipe - Tipe Diabetes</string>
+    <string name="titleKomplikasi">Komplikasi Yang Dialami</string>
+    <string name="titlePencegahan">Cara Pencegahan Penyakit Diabetes</string>
+    <string name="titleKontrol">Mengontrol Kadar Gula Dalam Darah</string>
+    <string name="titlePengobatan">Pengobatan Penyakit Diabetes</string>
+
+    <!--title Activity-->
+    <string name="bodyPengertian">
+         Diabetes melitus atau kencing manis merupakan penyakit kronis yang ditandai dengan kelainan metabolik akibat dari kurangnya produksi insulin oleh pankreas atau bisa juga karena kurangnya respon tubuh terhadap insulin, atau bisa juga akibat dari adanya pengaruh hormon lain yang menghambat kinerja insulin.
+\n\nPenyakit kencing manis terjadi ketika pankreas tidak bisa lagi memproduksi insulin dalam jumlah yang cukup, atau  tubuh Anda menjadi kurang sensitif terhadap insulin yang dihasilkan tubuh fungsi dari Hormon Insulin yaitu untuk mengubah Glukosa menjadi energi. Jika produksi insulin berkurang atau tidak efektif maka kadar Glukosa darah menjadi tidak terkendali dengan optimal hal ini dapat berujung pada terjadinya penyakit Diabetes Melitus.
+    </string>
+    <string name="bodyGejala">
+        Hilangnya kemampuan tubuh mengontrol insulin yang dihasilkan pankreas atau kurangnya pruduksi insulin menyebabkan gangguan Metabolisme karbohidrat, protein dan lemak dalam tubuh. Glukusa merupakan Karbohidrat alamiah yang biasa digunakan oleh tubuh kita sebagai sumber energi tubuh dalam kondisi normal tubuh memang membutuhkan Glukosa, namun jika berlebih dan berlangsung secara terus menerus dapat menyebabkan Hyperglikemia  dan berdampak buruk terhadap kesehatan tubuh dan beberapa organ ikut terpengaruhi.
+        \nGejala Diabetes Melitus mulai nampak ketika tingkat kadar gula dalam darah telah mencapai lebih dari 200 mg / dL.  Hal ini dapat terjadi tiba-tiba, tetapi dalam banyak kasus gula darah tinggi berkembang selama beberapa hari.
+        \n\nGejala hiperglikemia ditandai meliputi
+        \n - Kelelahan yang berlebihan.
+        \n - Poliuria atau peningkatan buang air kecil.
+        \n - Polidipsia atau haus, mulut terasa kering.
+        \n - Penurunan berat badan.
+        \n - Polifagia / sering lapar.
+        \n - Penglihatan kabur.
+        \n - Perasaan kebingungan.
+        \n - Kerentanan terhadap infeksi tertentu.
+        \n\nHyperglikemia Akut yang mengancam jiwa dan merupakan konsekuensi dari diabetes yang tidak terkontrol adalah hiperglikemia dengan ketoasidosis atau sindrom hiperosmolar nonketotic.
+        \nHyperglikemia kronis diabetes berhubungan dengan kerusakan jangka panjang, disfungsi atau kegagalan fungsi dari berbagai organ, terutama mata, ginjal, saraf, jantung, dan pembuluh darah.
+    </string>
+    <string name="bodyTipe">
+        Penyakit Diabetes dibagi menjadi beberapa tipe berdasarkan penyebab terjadinya. berikut pembagiannya:
+        \n\n1. Diabetes Tipe 1
+        \n\Diabetes tipe 1 disebabkan karena kerusakan ataupun karena kelainan genetik pada sel sel yang ada di pankreas, sehingga pankreas tidak bisa menghasilkan unsulin yang cukup untuk mengubah kadar gula dalam darah menjadi energi. penyakit diabetes tipe 1 ini sering menyerang mereka yang memiliki badan kurus, dan umumnya terjadi pada remaja.
+        \n\n2. Diabetes tipe 2
+        \nBerbeda dengan diabetes tipe 1, diabetes tipe 2 ini bukan karena hormon insulin tidak di produksi tubuh, melainkan hormon insulin ada di dalam tubuh dalam jumlah yang cukup namun respon  tubuh terhadap hormon insulin berkurang, atau terjadinya resistensi insulin sehingga tidak efektifnya kemampuan tubuh dalam memanfaatkan hormon insulin yang dihasilkan pankreas. umumnya penyakit ini menyerang orang-orang obesitas atau kelebihan berat badan
+        \n\n3. Diabetes tipe gestasional
+        \nDiabetes tipe gestasional ini diemukan akibat berbagai pengaruh hormon lain, biasanya pada masa kehamilan akibat pengaruh plasenta yang berujung pada hiperglikemia.
+    </string>
+    <string name="bodyKomplikasi">
+        Hiperglikemia atau tingginya Glukosa dalam darah dapat menyebabkan Berbagai penyakit serius yang berhubungan karena dapat mempengaruhi organ-organ tubuh lainnya. berikut beberapa jenis Komplikasi Penyakit Diabetes Melitus diantaranya :
+        \n
+        \n1. komplikasi dalam jangka waktu yang panjang bisa berakibat terjadinya kerusakan pembuluh darah.
+        \n2. Bisa beresiko terjadinya kerusakan pembuluh darah mikro pada mata.
+        \n3. Penderita Penyakit Diabetes melitus dua kali beresiko terkena serangan jantung atau penyakit jantung lainnya.
+        \n4. Mempengaruhi mood dan perubahan pada suasana hati.
+        \n5. Beresiko terhadap kerusakan saraf (neuropati).
+        \n6. Dapat menyebabkan gagal ginjal / kerusakan pada ginjal. Semakin tinggi glukosa dalam darah semakin berat kerja ginjal.
+        \n7. infeksi kulit dan gusi.
+        \n8. Mempengaruhi sistem kekebalan tubuh, kerusakan pada kulit dan jaringan organ yang susah untuk disebuhkan / gangren dalam beberapa kasus harus dilakukan amputasi untuk mencegah penyebaran keorgan lain nya.
+        \n9. stroke, koma dan berbagai penyakit lainnya.
+    </string>
+    <string name="bodyPencegahan">
+        Cara Mencegah Penyakit kencing manis yaitu dengan menghindari berbagai jenis makanan yang terlalu banyak mengandung glukosa, dan berbagai jenis makanan olahan yang tinggi glukosa, serta rajin berolah raga dan melakukan aktivitas fisik minimal 30 menit perhari. terutama untuk anda yang beresiko tinggi terkena DM. terlebih apabila orang anda menderita Kencing manis berarti resiko untuk terkena Diabetes Melitus dua kali lebih besar dibandingkan mereka yang tidak memiliki status kesehatan keluarga yang menderita.
+        \n\nSelain itu mengontrol berat badan juga penting dalam rangka mencegah terjadinya penyakit dm ini, lakukan pengecekan kadar gula darah untuk mengetahui berapa tinggi glukosa dalam darah dan bisa melakukan pencegahan. sedangkan untuk mereka yang sudah terkena penyakit Diabetes Melitus. lakukan pola hidup sehat, jaga asupan kalori, batasi jumlah porsi makanan.
+    </string>
+    <string name="bodyKontrol">
+        1. Diet untuk Diabetes
+        \nPenting sekali untuk selalu mengontrol pola makan terutama untuk mereka yang telah di diagnosa menderita penyakit diabetes. Kontrol pola makan disini tidak hanya berfokus pada jenis makanan tertentu namun juga terhadap porsi. Makanan seperti nasi, jagung, pasta dan beberapa jenis makanan yang tinggi karbohidarat ini bisa diolah tubuh menjadi glukosa. Hindari berbagai minuman energy drink, rata-rata minuman energy mengandung banyak glukosa.
+        \n\nMakan nasi tapi kurangi porsi yang anda konsumsi. Makanan yang dianjurkan untuk orang-orang yang telah menderita penyakit diabetes ini yaitu berbagai jenis makanan yang banyak mengandung protein seperti telur, susu, dan ikan sebagai pengganti glukosa dan karbohidrat sebagai sumber energi utama tubuh. selain itu lengkapi juga dengan sayur-sayuran dan buah-buahan konsumsi seadanya. Menontrol pola makan dan porsi makanan yang dikonsumsi merupakan salah satu hal penting dalam menurunkan kadar gula darah bagi penderita diabetes.
+        \n\n2. Olah raga dan kegiatan fisik
+        \n\nUntuk Mengontrol kadar gula darah anda juga harus selalu olahraga secara teratur, para ahli kesehatatan merekomendasikan minimal 30 menit aktivitas per hari atau 3 kali 10.  Latihan moderat dapat mencakup: jalan cepat, renang, naik sepeda atau berbagai jenis aktivitas lainnya yang anda sukai. Rajin Bergerak dapat membuat tubuh membakar banyak kalori termasuk glukosa. karena itu sisihkan waktu anda untuk berolah raga secara rutin.
+        \n\n3. Tidur yang cukup
+        \n\nIstirahat dan tidur yang cukup dapat membantu tubuh dalam produksi insulin oleh pankreas, karena itu pastikan anda tidur yang cukup sekitar 8 jam perhari. disaat kita kurang istirahat tubuh mulai bekerja terlalu berat, berbagai masalah bisa terjadi pada berbagai organ disaat kinerja tubuh di paksakan. penting sekali istirahat untuk mencegah berbagai kegagalan fungsi organ-organ tubuh. ini bukan hanya berlaku untuk penderita diabetes.
+        \n\n4. Periksa dan cek Gula darah secara teratur
+        \n\nCek gula darah anda secara teratur, cek gula darah bisa di lakukan di berbagai pos pelayanan kesahatam klinik dan rumah sakit, dan berkat perkembangan teknologi sekarang ini ada ada khusus untuk melakukan cek gula darah yang bisa anda lakukan secara mandiri. saya sangat menyarankan anda terutama penderita diabetes untuk membeli alat cek gula darah agar bisa anda lakukan pengecekan glukosa dalam darah anda dimanapun tanpa harus kerumah sakit, cara pengecakannya pun mudah nanti pada artikel selanjutnya akan saya jelaskan bagaimana cara pengecekan kadar gula darah secara mandiri di rumah, atau bisa juga anda menanyakan langsung pada dokter/petugas kesehatan yang menangi penyakit anda.
+        \n\nCek gula darah teratur ini sangat penting dan merupakan salah satu cara sederhana yang bisa kita lakukan untuk mengontrol gula darah anda. jika glukosa anda tinggi segera kerumah sakit atau konsumsi obat dan suntik insulin yang di sarankan oleh dokter anda, sebenarnya penyuntikan insulin bisa di lakukan mandiri dirumah tanyakan cara nya pada dokter anda serta dosis yang sesuai. ini tidak di rekomendasikan untuk anda yang tidak paham dan tidak memiliki alat cek glukosa darah.
+        \n\n5. Kontrol berat badan
+        \n\nSebuah gaya hidup sehat juga dapat membantu Anda menurunkan berat badan. Obesitas / kegemukan merupakan faktor risiko umum yang dapat menyebabkan pengembangan diabetes tipe 2 atau dabetes yang terjadi karena gaya hidup tidak sehat.
+    </string>
+    <string name="bodyPengobatan">
+        Pengobatan Diabetes Melitus tergantung pada tipe penyebab penyakitnya, karena perbedaan penyebab maka metode pengobatan pun berbeda.\
+        \n\nPada penderita Diabetes tipe 1 yang mana pada tipe ini pankreas penderita tidak dapat memproduksi hormon insulin yang cukup, maka pengobatannya yaitu dengan cara pompa insulin atau dengan pemberian insulin melalui suntikan yang bertujuan untuk mengganti hormon insulin alami yang seharusnya di produksi tubuh.
+        \n\nPada penderita Diabetes tipe 2. yang mana terjadinya resistensi insulin atau kurangnya kemampuan tubuh dalam memanfaatkan insulin dalam mengontrol kadar gula darah. maka jenis pengobatan yang harus diberikan cukup dengan pemberian berbagai jenis pengobatan oral yang dapat merangsang fungsi insulin.
+        \n\nPengobatan diatas hanya berfungsi untuk mengendalikan kadar gula darah anda, namun Penyakit Diabetes ini tidak dapat disembuhkan secara tuntas, sampai saat ini belum ada satu jenis pengobatan pun yang bisa menyembuhkan secara permanen. Selain pengobatan anda juga wajib untuk menjalani tekhnik pengendalian diet yang ketat, teratur dan terus menerus. ingat untuk mengontrol dan mengurangi jumlah asupan kalori, Makan dengan porsi kecil, Pilih makanan tinggi serat dan protein, Olah raga yang cukup, dan atur pola Tidur sehat, serta mengontrol berat badan.
+        \n\nCek kadar gula darah anda secara teratur, cek gula darah bisa di lakukan di berbagai pos pelayanan kesahatam klinik dan rumah sakit, kabar gembira saat ini berkat perkembangan teknologi sekarang ini sudah ada alat khusus untuk melakukan cek gula darah yang bisa anda lakukan secara mandiri dimanapun tanpa harus kerumah sakit.
+    </string>
+
+</resources>
